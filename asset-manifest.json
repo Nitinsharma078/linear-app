@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/linear-app/static/css/main.c6620c9e.css",
+    "main.js": "/linear-app/static/js/main.9fc9dbc6.js",
+    "static/media/bg.jpg": "/linear-app/static/media/bg.4fe3c629dc0f42150c9f.jpg",
+    "static/media/bg1.jpg": "/linear-app/static/media/bg1.91b8948971a84514617e.jpg",
+    "static/media/logo.png": "/linear-app/static/media/logo.420d98a6bbd7435fd50f.png",
+    "index.html": "/linear-app/index.html",
+    "main.c6620c9e.css.map": "/linear-app/static/css/main.c6620c9e.css.map",
+    "main.9fc9dbc6.js.map": "/linear-app/static/js/main.9fc9dbc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6620c9e.css",
+    "static/js/main.9fc9dbc6.js"
+  ]
+}
